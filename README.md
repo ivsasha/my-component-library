@@ -31,17 +31,18 @@ npm run storybook
 Universal component for data input with support for different types, labels and icons.
 
 **Features:**
-
 - Types: `text`, `password`, `number`
 - Clear button (clearable)
 - Show/hide password
 
 **Screenshots:**
 
-_Input password with close button:_
+Input password with close button:
+
 ![alt text](readme_images/image-1.png)
 
-_Input text without close button:_
+Input text without close button:
+
 ![alt text](readme_images/image-2.png)
 
 ---
@@ -51,7 +52,6 @@ _Input text without close button:_
 Component for displaying notifications with automatic closing and animations.
 
 **Features:**
-
 - Types: `success`, `error`, `info`, `custom`
 - Automatic closing with configurable time
 - Show/hide animations
@@ -59,13 +59,16 @@ Component for displaying notifications with automatic closing and animations.
 
 **Screenshots:**
 
-_Toast success message with close button:_
+Toast success message with close button:
+
 ![alt text](readme_images/image-3.png)
 
-_Toast error message with close button:_
+Toast error message with close button:
+
 ![alt text](readme_images/image-4.png)
 
-_Toast info message without close button:_
+Toast info message without close button:
+
 ![alt text](readme_images/image-5.png)
 
 ---
@@ -75,7 +78,6 @@ _Toast info message without close button:_
 Side menu with support for nested elements and animated expansion.
 
 **Features:**
-
 - Multi-level menu
 - Opening animations
 - Backdrop overlay
@@ -83,10 +85,12 @@ Side menu with support for nested elements and animated expansion.
 
 **Screenshots:**
 
-_SidebarMenu closed:_
+SidebarMenu closed:
+
 ![alt text](readme_images/image-6.png)
 
-_SidebarMenu open with expanded submenus:_
+SidebarMenu open with expanded submenus:
+
 ![alt text](readme_images/image-7.png)
 
 ## 📚 Storybook
@@ -98,9 +102,11 @@ npm run storybook
 ```
 
 **Storybook UI:**
+
 ![alt text](readme_images/image-8.png)
 
-_Storybook with components in different states:_
+Storybook with components in different states:
+
 ![alt text](readme_images/image-9.png)
 ![alt text](readme_images/image-10.png)
 ![alt text](readme_images/image-11.png)
