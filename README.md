@@ -39,10 +39,10 @@ Universal component for data input with support for different types, labels and 
 **Screenshots:**
 
 _Input password with close button:_
-![alt text](image-1.png)
+![alt text](readme_images/image-1.png)
 
 _Input text without close button:_
-![alt text](image-2.png)
+![alt text](readme_images/image-2.png)
 
 ---
 
@@ -60,13 +60,13 @@ Component for displaying notifications with automatic closing and animations.
 **Screenshots:**
 
 _Toast success message with close button:_
-![alt text](image-3.png)
+![alt text](readme_images/image-3.png)
 
 _Toast error message with close button:_
-![alt text](image-4.png)
+![alt text](readme_images/image-4.png)
 
 _Toast info message without close button:_
-![alt text](image-5.png)
+![alt text](readme_images/image-5.png)
 
 ---
 
@@ -84,10 +84,10 @@ Side menu with support for nested elements and animated expansion.
 **Screenshots:**
 
 _SidebarMenu closed:_
-![alt text](image-6.png)
+![alt text](readme_images/image-6.png)
 
 _SidebarMenu open with expanded submenus:_
-![alt text](image-7.png)
+![alt text](readme_images/image-7.png)
 
 ## 📚 Storybook
 
@@ -98,12 +98,12 @@ npm run storybook
 ```
 
 **Storybook UI:**
-![alt text](image-8.png)
+![alt text](readme_images/image-8.png)
 
 _Storybook with components in different states:_
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](readme_images/image-9.png)
+![alt text](readme_images/image-10.png)
+![alt text](readme_images/image-11.png)
 
 ## 🎯 Design Features
 
